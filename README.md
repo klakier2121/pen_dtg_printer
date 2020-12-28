@@ -1,4 +1,4 @@
-# pen_dtg_printer
+# Pen DTG Printer
 
 Firstly you have to upload Arduino.ino to your board. 
 
